@@ -1,0 +1,9 @@
+cassandra-driver==3.29.2
+click==8.1.8
+geomet==0.2.1.post1
+pathvalidate==3.2.3
+py4j==0.10.9.7
+pyspark==3.5.5
+six==1.17.0
+tqdm==4.67.1
+v==1
